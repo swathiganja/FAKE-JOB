@@ -1,0 +1,80 @@
+absl-py==2.3.1
+altair==6.0.0
+astunparse==1.6.3
+attrs==25.4.0
+blinker==1.9.0
+Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938096667/work
+cachetools==6.2.5
+certifi==2026.1.4
+cffi==2.0.0
+charset-normalizer==3.4.4
+click @ file:///C:/miniconda3/conda-bld/click_1764332349001/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+cryptography==45.0.7
+flatbuffers==25.12.19
+gast==0.4.0
+gitdb==4.0.12
+GitPython==3.1.46
+google-auth==2.48.0
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.74.0
+h5py==3.15.1
+idna==3.11
+Jinja2==3.1.6
+joblib @ file:///C:/Users/task_176786734930694/croot/joblib_1767868144277/work
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+keras==2.13.1
+libclang==18.1.1
+Markdown==3.10.1
+MarkupSafe==3.0.3
+mkl-service==2.5.2
+mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592981169/work
+mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593075610/work
+narwhals==2.15.0
+nltk @ file:///C:/miniconda3/conda-bld/nltk_1761121234467/work
+numexpr @ file:///C:/miniconda3/conda-bld/numexpr_1762165723970/work
+numpy==1.24.3
+oauthlib==3.3.1
+opt_einsum==3.4.0
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049101700/work
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332399653/work/dist/pandas-2.3.3-cp310-cp310-win_amd64.whl#sha256=25368e0adc93a7db0f3983502b4e57344f71af8f45ca3849f7c3833738f306aa
+pillow==12.1.0
+protobuf==4.25.8
+pyarrow==23.0.0
+pyasn1==0.6.2
+pyasn1_modules==0.4.2
+pycparser==3.0
+pydeck==0.9.1
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_f8wdzeix0n/croot/pytz_1752135878094/work
+referencing==0.37.0
+regex @ file:///C:/miniconda3/conda-bld/regex_1765378783231/work
+requests==2.32.5
+requests-oauthlib==2.0.0
+rpds-py==0.30.0
+rsa==4.9.1
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+scipy @ file:///C:/miniconda3/conda-bld/scipy_1759222090244/work/dist/scipy-1.15.3-cp310-cp310-win_amd64.whl#sha256=2c02ce5f7bc108a9dd2298fac421e55898c14864219396421ffe00419ec8c736
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+smmap==5.0.2
+streamlit==1.53.1
+tenacity==9.1.2
+tensorboard==2.13.0
+tensorboard-data-server==0.7.2
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==3.3.0
+threadpoolctl @ file:///C:/miniconda3/conda-bld/threadpoolctl_1764361785970/work
+toml==0.10.2
+tornado==6.5.4
+tqdm @ file:///C:/miniconda3/conda-bld/tqdm_1762863407046/work
+typing_extensions==4.15.0
+tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
+urllib3==2.6.3
+watchdog==6.0.0
+Werkzeug==3.1.5
+wrapt==2.0.1
